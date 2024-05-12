@@ -1,7 +1,8 @@
-# Orange-Find-Points V2.0
+# Orange-Find-Points List V2.0 Service
 # Copyright (c) 2021 Wxbxbwjb. All rights reserved. > Oranger!xuan:)
+
 """
-OFP List V2.2 Service EULA（使用此服务后则自动视为同意）：
+OFP List V2.0 Service EULA（使用此服务后则自动视为同意）：
 1. 用户信息保护与免责声明
    - 合规性：用户必须遵守所有适用的法律法规，包括但不限于隐私保护法、个人信息保护法等。用户不得将用户信息用于任何违法活动，或以任何方式侵犯他人的合法权益。
    - 信息传播与分发：用户不得传播、分发或泄露任何用户信息，包括但不限于成绩单、个人联系信息等。
